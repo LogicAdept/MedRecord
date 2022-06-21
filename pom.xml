@@ -30,7 +30,7 @@
     <maven-deploy.version>2.8.2</maven-deploy.version>
     <log4j.version>2.11.2</log4j.version>
     <hibernate-core.version>5.4.2.Final</hibernate-core.version>
-    <mysql-connector-java.version>8.0.16</mysql-connector-java.version>
+    <mysql-connector-java.version>8.0.28</mysql-connector-java.version>
     <hibernate-entitymanager.version>5.4.2.Final</hibernate-entitymanager.version>
     <spring-data-jpa.version>1.0.2.RELEASE</spring-data-jpa.version>
     <com.google.guava.version>27.1-jre</com.google.guava.version>
